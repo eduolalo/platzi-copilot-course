@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Nombre por defecto del proyecto
+
 PROJECT_NAME="no_name_bun_project"
 
 # Procesar argumentos de línea de comandos
